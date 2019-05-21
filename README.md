@@ -3,6 +3,7 @@ Made with <3 from Gatsby and Ema Suriano's Starter https://github.com/EmaSuriano
 
 ## Checkout the live site here!
 Hosted with github and netlify!
+nathaniel-dominguez.netlify.com
 
 ## License 📝
 
